@@ -25,13 +25,13 @@ Analysis on box office panal data to see if there're any changine trends in movi
 
 |Codes|
 |---|
-[Scraping](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/BoxMojo_Data_scraping.ipynb)<br> *Codes of scraping movie data from Movie Box Mojo
-[Analysis](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/BoxMojo_Data_scraping.ipynb) Codes of the analysis, including donut chart of glolbal movie market share 2017, stacked bar chart and grouped bar chart of contributions to total gross by movie elements, horizontal bar chart of key elements ratio to top20, and word clouds of top20 movies' plots summary.*
+[Scraping](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/BoxMojo_Data_scraping.ipynb)<br> *Codes of scraping movie data from Movie Box Mojo*
+[Analysis](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/BoxMojo_Data_scraping.ipynb)<br> *Codes of the analysis, including donut chart of glolbal movie market share 2017, stacked bar chart and grouped bar chart of contributions to total gross by movie elements, horizontal bar chart of key elements ratio to top20, and word clouds of top20 movies' plots summary.*
 
 
 |Data|
 |---|
-|2017 global movie box office](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/World_movie_market_2017.xlsx)<br>*2017 global box office data from 2017 Theme Report by MPAA*|
+[|2017 global movie box office](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/World_movie_market_2017.xlsx)<br>*2017 global box office data from 2017 Theme Report by MPAA*|
 |[Movie Box Mojo data of movies](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/movie_data.csv)<br>*Sraped data from Movie Box Mojo*|
 |[2017 Top20 movies in US/Canada, China and Japan](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/movie_top3_top20.xlsx)<br>*Data used in analysis of top20 movies in top3 movie markets, including domestic gross, genre, plots summary and others.*|
 |[2017 movie rank in  US/Canada, China and Japan](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/movie_top20_rank.xlsx)<br>*2017 movie ranking from Movie Box Mojo based on domestic gross.*|
