@@ -1,4 +1,4 @@
-# 2017 Top3 Movie Market Comparison
+# Animie Japan
 
 ## Introduction
 I love watching movies, and I know that people have different tastes in movies because of their differences on culture backgrounds, characteristics and value systems. But how about on an aggregated level such as country? What are the most appreciated movies by people in different countries? Are there any differences? 
@@ -52,3 +52,5 @@ Analysis on box office panal data to see if there're any changine trends in movi
 [2017 Theme Report](https://www.mpaa.org/wp-content/uploads/2018/04/MPAA-THEME-Report-2017_Final.pdf)
 
 [Taking anime too seriously](https://www.japantimes.co.jp/culture/2013/06/02/books/book-reviews/taking-anime-too-seriously/#.W4mgx5NKgWo)
+
+[Japanese Anime Culture](https://tokyotreat.com/news/japanese-anime-culture)
