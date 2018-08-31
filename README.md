@@ -19,7 +19,7 @@ Their tastes in movie plots are also very different from the other two markets. 
 ![alt text](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/WordCloud_Plots_Japan.png)
 
 ## Future Research Direction
-Analysis on movie box data panal data to see if there're any trends in preferences. 
+Analysis on box office panal data to see if there're any changine trends in movie preferences. 
 
 ## Index of Repository
 
