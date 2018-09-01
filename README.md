@@ -31,7 +31,7 @@ Analysis on box office panal data to see if there're any changine trends in movi
 
 |Data|
 |---|
-[|2017 global movie box office](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/World_movie_market_2017.xlsx)<br>*2017 global box office data from 2017 Theme Report by MPAA*|
+|[2017 global movie box office](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/World_movie_market_2017.xlsx)<br>*2017 global box office data from 2017 Theme Report by MPAA*|
 |[Movie Box Mojo data of movies](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/movie_data.csv)<br>*Sraped data from Movie Box Mojo*|
 |[2017 Top20 movies in US/Canada, China and Japan](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/movie_top3_top20.xlsx)<br>*Data used in analysis of top20 movies in top3 movie markets, including domestic gross, genre, plots summary and others.*|
 |[2017 movie rank in  US/Canada, China and Japan](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Data/movie_top20_rank.xlsx)<br>*2017 movie ranking from Movie Box Mojo based on domestic gross.*|
