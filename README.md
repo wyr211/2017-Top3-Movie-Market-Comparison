@@ -11,7 +11,7 @@ The study focus on movie markets of US/Canada, China and Japan, because the dist
 
 Among the top3 markets, Japan is quite outstanding in their preferences on animation movies. 40% of their top 20 movies are animation movies. 
 
-![alt text](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/Bar_2017_Proportion_of_Animation_Movie_in_Top20_Movies_Japan.png)
+![alt text](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/Bar_2017_Proportion_of_Animation_Movie_in_Top_20_Movies_Japan.png)
 
 
 Their tastes in movie plots are also very different from the other two markets. The key words of plots summeries of the top 20 movies seem to be soft and feminine.
