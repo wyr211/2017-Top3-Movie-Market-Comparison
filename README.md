@@ -26,7 +26,7 @@ Analysis on box office panal data to see if there're any changine trends in movi
 |Codes|
 |---|
 [Scraping](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/BoxMojo_Data_scraping.ipynb)<br> *Codes of scraping movie data from Movie Box Mojo*
-[Analysis](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/BoxMojo_Data_scraping.ipynb)<br> *Codes of the analysis, including donut chart of glolbal movie market share 2017, stacked bar chart and grouped bar chart of contributions to total gross by movie elements, horizontal bar chart of key elements ratio to top20, and word clouds of top20 movies' plots summary.*
+[Analysis](https://nbviewer.jupyter.org/github/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Codes/2017_Top_3_Movie_Market_Comparison.ipynb)<br> *Codes of the analysis, including donut chart of glolbal movie market share 2017, stacked bar chart and grouped bar chart of contributions to total gross by movie elements, horizontal bar chart of key elements ratio to top20, and word clouds of top20 movies' plots summary.*
 
 
 |Data|
