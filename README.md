@@ -11,7 +11,7 @@ The study focus on movie markets of US/Canada, China and Japan, because the dist
 
 Among the top3 markets, Japan is quite outstanding in their preferences on animation movies. 40% of their top 20 movies are animation movies. 
 
-![alt text](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/Bar_2017_Proportion_of_Animation_Movie_in_Top_20_Movies_Japan.png)
+![alt text](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/Bar_2017_Percentage_of_Animation_Movie_of_Top_20_Movies_Japan.png)
 
 
 Their tastes in movie plots are also very different from the other two markets. The key words of plots summeries of the top 20 movies seem to be soft and feminine.
@@ -42,7 +42,8 @@ Analysis on box office panal data to see if there're any changine trends in movi
 |[Donut chart of 2017 global box office with all countries' shares](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/DonutPlot_2017_Global_Movie_Market_Share_Full.png)<br>*Distribution of box office around the world 2017*.|
 |[Stacked horizontal bar chart of contributions to total box office by movie genres focus on key genres](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/StackedBar_Contributions_of_Key_Genres_to_Total_Box_Office.png)<br>*Contributions to total box office by genres of top 3 movie markets focus on key genres.*|
 |[Stacked horizontal bar chart of contributions to total box office by movie genres with full labels](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/StackedBar_Contributions_of_Genres_to_Total_Box_Office_Full.png)<br>*Contributions to total box office by genres of top 3 movie markets.*|
-|[Grouped horizontal bar chart of contributions to total box office by top3 genres](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/GroupedBar_Contributions_of_Key_Genres_to_Total_Box_Office.png)<br>*Contributions to total box office by top 3 genres in Japan among top 3 markets.*|
+|[Grouped horizontal bar chart of contributions to total box office by top 3 genres](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/GroupedBar_Contributions_of_Key_Genres_to_Total_Box_Office.png)<br>*Contributions to total box office by top 3 genres in Japan among top 3 markets.*|
+|[Bar chart of percentages of animation movies of top 20 movies by country](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/Bar_2017_Percentage_of_Animation_Movie_of_Top_20_Movies_Japan.png)<br>*Percentage of animation movies of top 20 movies in top 3 markets.*|
 |[Word cloud of plots summaries of 2017 Japan's top20 movies](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/WordCloud_Plots_Japan.png)<br>*Word cloud of plots summaries of 2017 Japan's top 20 movies focus on 6 key words.*|
 |[Word cloud of plots summaries of 2017 US/Canada's top20 movies](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/WordCloud_Plots_US:Canada.png)<br>*Word cloud of plots summaries of 2017 US/Canada's top 20 movies focus on 6 key words.*|
 |[Word cloud of plots summaries of 2017 China's top20 movies](https://github.com/wyr211/2017-Top3-Movie-Market-Comparison/blob/master/Visualization/WordCloud_Plots_China.png)<br>*Word cloud of plots summaries of 2017 China's top 20 movies focus on 6 key words.*|
